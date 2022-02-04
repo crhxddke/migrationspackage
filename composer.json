@@ -1,0 +1,10 @@
+{
+    "name": "bahtiyarkavakli/migrations-package",
+    "authors": [
+        {
+            "name": "bahtiyar.kavakli",
+            "email": "bahtiyar@wwwforall.nl"
+        }
+    ],
+    "require": {}
+}
