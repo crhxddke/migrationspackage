@@ -15,6 +15,5 @@ class MigrationPackageExtension extends Extension
         $data = $loader->load('services.yaml');
         dump($data);
         exit;
-
     }
 }
